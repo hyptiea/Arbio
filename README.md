@@ -8,13 +8,14 @@ Du kannst in jeder beliebigen Notiz in deinem Obsidian-Vault Fragen für dein pe
 
 So:
 
-
+<pre>
 ```arbio
 Topic: Baumidentifikation
 Q: Welcher Samen sind auf diesem Bild zu sehen?
 A: Geflügelte Samen der Fraser-Tanne
 Img: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Abies_fraseri_seeds.jpg/1280px-Abies_fraseri_seeds.jpg
 ```
+</pre>
 
 Die Erweiterung erkennt diese formatierten Fragen automatisch und fügt sie deinem Quiz hinzu. Erstlle irgendwo in einem Text von dir so einen Block und lass dich bei Bedarf abfragen. Momentan kann die Erweitung noch nicht viel, aber mit der Zeit und genügend Feedback wird sie laufend ergänzt oder vereinfacht.
 
