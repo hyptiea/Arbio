@@ -11,7 +11,7 @@ So:
 <pre>
 ```arbio
 Topic: Baumidentifikation
-Q: Welcher Samen sind auf diesem Bild zu sehen?
+Q: Welche Samen sind auf diesem Bild zu sehen?
 A: Geflügelte Samen der Fraser-Tanne
 Img: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Abies_fraseri_seeds.jpg/1280px-Abies_fraseri_seeds.jpg
 ```
@@ -29,4 +29,4 @@ Die Erweiterung erkennt diese formatierten Fragen automatisch und fügt sie dein
 
 
 **Regelmässigkeit und Dauer**. 
-Nutze das Quiz täglich oder alle paar Tage nur für ein paar Minuten. Konstanz ist wichtiger als lange Lern-Sessions. So funktoniert es wirklich. Ich lerne momentan Noten lesen und mit diesem Ansatz komme ich wirklich weiter.
+Nutze das Quiz täglich oder alle paar Tage nur für ein paar Minuten. Konstanz ist wichtiger als langes Lernen. So funktonierts wirklich. Ich lerne momentan Noten lesen und mit diesem Ansatz komme ich wirklich weiter.
