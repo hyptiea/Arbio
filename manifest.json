@@ -1,0 +1,11 @@
+{
+    "id": "arbori",
+    "name": "Arbori",
+    "version": "0.0.1",
+    "minAppVersion": "1.5.0",
+    "description": "Eine Arborikultur-Erweiterung. Zum Lernen, Zur Inhaltserstellung und persönliche Journale.",
+    "author": "hyptiea",
+    "authorUrl": "https://github.com/hyptiea",
+    "isDesktopOnly": false,
+    "css": ["styles.css"]
+}
